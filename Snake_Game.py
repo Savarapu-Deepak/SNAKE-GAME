@@ -1,6 +1,6 @@
 from tkinter import *
 import random
-
+# Two Modules are used in the program there are tkinter and random.
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
 SPEED = 200  # Lower the number higher the speed
